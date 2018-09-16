@@ -3,7 +3,7 @@
 namespace Abrigham\LaravelEmailExceptions\Exceptions;
 
 use Exception;
-use Mail;
+use Mail as Mail;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 
